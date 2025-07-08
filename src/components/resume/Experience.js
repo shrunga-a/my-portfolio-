@@ -17,9 +17,16 @@ const Experience = () => {
         <div className="mt-14 w-full h-[700px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Junior support engineer"
-            subTitle="UnifyCX pvt. ltd. - (2023 - 2024)"
+            subTitle="UnifyCX Pvt.Ltd. - (2024 - 2025)"
             result="Manglore"
-            des="I have joined UnifyCX, Manglore on April 24th, 2023"
+            des="I was awarded the best CSAT score achiver for 3-4 consecutive months"
+          />
+
+           <ResumeCard
+            title="Lecturer"
+            subTitle="Yenepoya Institute of Arts, Science, Management & commerce - (2025 - Currently working)"
+            result="Manglore"
+            des="Challenging convention, cultivating curiosity"
           />
           
 
@@ -32,10 +39,10 @@ const Experience = () => {
         </div>
         <div className="mt-14 w-full h-[700px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
-            title="Frontend and Backend Intern"
-            subTitle="The Web People, puttur"
-            result="Puttur"
-            des="I have done my internship while studing MCA. I got a shot to explore new techs during this internship"
+            title="React-Native Front-end intern"
+            subTitle="Synergy Strategic Solutions"
+            result="Bangalore"
+            des=" Skilled at debugging, troubleshooting, and optimizing frontend code improved performance"
           />
           
         </div>

@@ -31,18 +31,18 @@ const Education = () => {
           <ResumeCard
             title="Pre-University College"
             subTitle="Vikas Pre-University College, Mangaluru (2016 - 2018)"
-            result="70% "
+            result="60% "
             des="Studied Physics,Chemisry,Mathematics and Biology."
           />
             <ResumeCard
             title="Secondary School Education"
-            subTitle="Sharada Vidyanikethana Public School, Mangaluru (2012 - 2016)"
+            subTitle="Sharada Vidyanikethana Public School, Mangaluru (2014 - 2016)"
             result="84% "
             des="Studied 9th and 10th in this school CBSC Bord"
           />
           <ResumeCard
             title="Primary & Secondary School Education"
-            subTitle="The Presidency Public school, sira"
+            subTitle="The Presidency Public school, sira (2005-2016)"
             result="80% "
             des="Studied in this school from 1st - 8th."
           /> 

@@ -16,7 +16,7 @@ export const featuresData = [
     id: 2,
     icon: <AiFillAppstore />,
     title: "App Development",
-    des: "Have worked on flutter. and am will to learn this more !",
+    des: "Have worked on React-native. and am willing to learn this more !",
   },
   {
     id: 3,
@@ -33,8 +33,8 @@ export const featuresData = [
   {
     id: 5,
     icon: <CgChart />,
-    title: "Blockchain",
-    des: "Building on blockchain technology, I have worked on Veramo framework, focusing on creating a robust SSI (Self-Sovereign Identity) system.",
+    title: "business development associate",
+    des: "Business Development Associate with a focus on driving growth through client acquisition, market research, and strategic partnerships.",
   },
   {
     id: 6,

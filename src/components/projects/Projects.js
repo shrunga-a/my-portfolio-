@@ -17,42 +17,43 @@ const Projects = () => {
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6 xl:gap-14">
         <ProjectsCard
-          title="VCET Connect"
-          des="Unlimited content sharing platform, fostering knowledge exchange and communication among students at VCET."
+          title="Stock prediction app"
+          des="A web-based app that predicts future stock prices using LSTM deep learning and historical data.."
           src={projectOne}
-          githubLink="https://github.com/saji37/social-media"
+          githubLink="https://github.com/shrunga-a/stock_app"
 
         />
         <ProjectsCard
-          title="Expense-Tracker"
-          des="The Expense Tracker is an innovative application that leverages Machine Learning (ML) algorithms to analyze users' spending patterns and provide personalized financial insights. The goal is to help users make informed financial decisions and improve their budget management."
+          title="LPG gas detection"
+          des="This project is designed to detect the presence of flammable gases like LPG in the environment and trigger alerts to prevent accidents.."
           src={projectTwo}
-          githubLink="https://github.com/saji37/expense-tracker"
+          githubLink="https://github.com/shrunga-a/LPG-gas-detection"
         />
         <ProjectsCard
-          title="Human following robot"
-          des="The Human Following Robot is an IoT-based project aimed at developing an autonomous robot capable of tracking and following human movement. The project integrates various sensors and communication technologies to enable the robot to follow a person while maintaining a safe distance."
+          title="SynBasket"
+          des="A cross-platform React Native shopping app that offers a seamless and intuitive experience for browsing, carting, and purchasing products on the go."
           src={projectThree}
+          githubLink="https://github.com/shrunga-a/SynBasket"
         />
         <ProjectsCard
-          title="SSI System"
-          des="The Self-Sovereign Identity (SSI) system is a revolutionary approach to digital identity management that empowers individuals to have complete control over their personal information. Unlike traditional identity systems, where centralized entities store and control user data, SSI enables users to manage their identity information independently, securely, and privately."
+          title="Todo application"
+          des="A simple and efficient To-Do application to help you organize tasks, set priorities, and boost daily productivity."
           src={projectFour}
-          githubLink="https://github.com/saji37/veramo"
+          githubLink="https://github.com/shrunga-a/1_new_todo"
           
         />
         <ProjectsCard
-          title="Temple Management"
-          des="This is the admin dashboard for temple management. It is built using react and tailwind"
+          title="Complaint Management"
+          des="A streamlined Complaint Management System designed to log, track, and resolve user grievances efficiently within organizations or institutions."
           src={projectFive}
-          githubLink="https://github.com/saji37/Temple-Management"
-          websiteLink="https://templesevamanagement.netlify.app/"
+          githubLink="https://github.com/shrunga-a/PHP-project"
+         
         />
         <ProjectsCard
           title="Quiz App"
           des="The Quiz App is an interactive and engaging application designed to test users' knowledge on various topics through a series of questions and answers. It provides an enjoyable way for users to learn new information, challenge themselves, and compete with others."
           src={projectSix}
-          githubLink="https://github.com/saji37/Quiz_app"
+          githubLink="https://github.com/shrunga-a/Alpha_Backend"
       
         />
       </div>
